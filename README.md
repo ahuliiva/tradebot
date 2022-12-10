@@ -2,6 +2,7 @@
 
 Telegram bot for notifying changes of trading instruments on Binance
 
+https://t.me/bestevermegatradingbot
 
 #### /price
     enter Binance instrument symbol (i.e. BTCUSDT) to get it's price
